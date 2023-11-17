@@ -8,3 +8,4 @@ Quick and simple projects that are actually useful. Built in under 30 minutes
 ! Security risk ! - input not sanitised.
 
 - **Timer** another enhancement in form of a tab to allow a working timer to be displayed in title. Similar to google timer, without bloat.
+  - 17.11.23 Updated to provide some functionality for mobile devices users, which rarely use tabs. Enjoy.
